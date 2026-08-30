@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Ángel Marco 👋</h1>
-<h3 align="center">Estudiante de Ing. en TI | Aprendiendo Desarrollo Web (JS/Node) y Cloud (AWS)</h3>
+<h3 align="center">Estudiante de Ing. en TI | Desarrollo Web (JS/Node) & Cloud (AWS)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Construyendo+mi+primer+proyecto+propio;Aprendiendo+JavaScript+%2B+Node.js;En+camino+a+AWS+Cloud+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Construyo+soluciones+desde+la+identificaci%C3%B3n+del+problema;JavaScript+%2B+Node.js+%2B+MongoDB;Cloud+%26+despliegue+en+AWS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,32 +15,25 @@
 
 ### 🧭 Acerca de mí
 
-Soy estudiante de Ingeniería en Tecnologías de la Información en la UPChiapas, actualmente en 4to cuatrimestre.
-Estoy construyendo mi camino hacia el desarrollo web y la nube — aprendiendo JavaScript, Node.js, y AWS,
-mientras participo en programas internacionales como GCI World (Universidad de Tokio) y la certificación
-de MongoDB en español.
+Estudiante de Ingeniería en Tecnologías de la Información (UPChiapas), con experiencia práctica desarrollando
+proyectos de principio a fin: identificar una problemática real en mi comunidad, definirla con claridad, y
+construir una solución funcional desplegada en la nube (AWS).
 
-No tengo años de experiencia todavía, pero sí constancia: cada semana subo avances reales de lo que voy aprendiendo.
+Ese proceso me ha dado algo que no se aprende solo en clase: entender a quién le estoy resolviendo el problema,
+traducir una necesidad real en requerimientos técnicos, y sostener la comunicación con quien recibe la solución
+de principio a fin.
 
-**🎯 Open to:** estadías profesionales, colaborar en proyectos pequeños, y conectar con gente de la industria tech.
+Actualmente complemento esta base con formación especializada: el programa internacional GCI World
+(Ciencia de Datos, Universidad de Tokio) y la certificación MongoDB Associate Developer.
+
+**🎯 Abierto a:** estadías profesionales y proyectos — grandes o pequeños, lo que importa es seguir construyendo con impacto real.
 
 ---
 
-### 🛠️ Tech Stack (lo que uso de verdad, no lo que "suena bien")
+### 🛠️ Tech Stack
 
-**Lenguajes**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-</p>
-
-**En aprendizaje activo ahora mismo**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,aws" />
-</p>
-
-**Herramientas**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,mongodb,aws,git,github" />
 </p>
 
 ---
@@ -48,21 +41,23 @@ No tengo años de experiencia todavía, pero sí constancia: cada semana subo av
 ### 📌 Proyectos destacados
 
 <details>
-<summary><b>Proyecto 1 — [Nombre de tu proyecto]</b></summary>
+<summary><b>[Nombre del proyecto] — Solución desplegada en AWS para [problemática de tu comunidad]</b></summary>
 <br>
 
-**Descripción:** [1-2 líneas explicando qué hace tu proyecto]
+**El problema:** [describe brevemente la problemática real que identificaste]
+
+**La solución:** [qué construiste y cómo resuelve el problema]
 
 | | |
 |---|---|
 | **Stack** | HTML, CSS, JavaScript |
-| **Estado** | En desarrollo / Terminado |
+| **Despliegue** | AWS (Ubuntu) |
 | **Repositorio** | [link a tu repo] |
 
 </details>
 
 <details>
-<summary><b>Proyecto 2 — [Próximamente]</b></summary>
+<summary><b>[Próximo proyecto] — MongoDB + Node.js</b></summary>
 <br>
 
 En construcción como parte de mi certificación MongoDB Associate Developer.
@@ -74,23 +69,11 @@ En construcción como parte de mi certificación MongoDB Associate Developer.
 ### 🔭 Enfoque actual
 
 ```yaml
-Aprendiendo: JavaScript moderno, Node.js, MongoDB
-Construyendo: Mi primer proyecto propio con base de datos
-Explorando: AWS Cloud Practitioner, Ciencia de Datos (GCI World - U. Tokio)
+Profundizando: JavaScript avanzado, Node.js, MongoDB
+Certificando: MongoDB Associate Developer, AWS Cloud Practitioner
+Formación complementaria: Ciencia de Datos (GCI World - U. Tokio)
 Meta: Estadía profesional en 6to cuatrimestre
 ```
-
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -100,6 +83,3 @@ Meta: Estadía profesional en 6to cuatrimestre
   <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>"Cada proyecto pequeño de hoy es la base del portafolio grande de mañana."</i></p>
-
