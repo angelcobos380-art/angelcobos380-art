@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Ángel Marco 👾</h1>
-<h3 align="center">Backend con Python y Node.js · MongoDB · Proyectos desplegados</h3>
+<h3 align="center">Desarrollo backend y web · Python · Node.js · MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=FastAPI+%2B+PostgreSQL+%2B+Docker;Node.js+%2B+MongoDB;Astro+%2B+deploy+hooks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Python+%2B+Node.js+%2B+MongoDB;Proyectos+desplegados;Astro+%2B+Vercel" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,11 +18,7 @@
 
 Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital (UPChiapas), orientado a backend.
 
-Construyo backends y los llevo a producción. Mi proyecto actual es el CMS headless de mi portafolio: API en FastAPI con SQLModel y Pydantic, panel de administración con sesiones, PostgreSQL y despliegue en Render con Docker. Cuando publico un post, el backend dispara un build hook y Vercel regenera el sitio.
-
-Empecé con SQLite y migré a PostgreSQL cuando entendí que el disco del hosting es efímero. Ese tipo de decisiones, más que el framework, es lo que me interesa del backend.
-
-Trabajo desde el problema hacia la solución: identificar la necesidad, traducirla a requerimientos y sostener el proyecto hasta que alguien lo usa.
+Me interesa el software que llega a usarse: modelar el problema, construir la solución y desplegarla. Documento las decisiones en cada repositorio.
 
 **Estadía profesional:** mayo–agosto de 2027, Querétaro.
 
@@ -30,11 +26,50 @@ Trabajo desde el problema hacia la solución: identificar la necesidad, traducir
 
 ### Proyectos
 
-| Proyecto | Qué es | Stack | Links |
-|---|---|---|---|
-| **Portafolio + CMS headless** | CMS propio para publicar el portafolio: admin con sesiones, build hook a Vercel y API versionada | FastAPI · SQLModel · PostgreSQL · Docker · Astro | [Demo](https://portafolio-blog-nine.vercel.app) · [Repo](https://github.com/angelcobos380-art/Portafolio-Blog) |
-| **Granito** | MVP de microdonaciones con Stripe Checkout en modo prueba y donaciones atómicas | Node.js · PostgreSQL · Stripe | [Demo](https://granito-microdonaciones.vercel.app) · [Repo](https://github.com/angelcobos380-art/Granito-Microdonaciones) |
-| **Administrador de citas** | CRUD de citas para una veterinaria con validación y notificaciones | JavaScript · DOM · Vercel | [Demo](https://veterinariacitas.vercel.app) · [Repo](https://github.com/angelcobos380-art/AdministradorCitas) |
+#### [Portafolio + CMS headless](https://github.com/angelcobos380-art/Portafolio-Blog)
+
+CMS headless para el portafolio: panel de administración, API versionada y build hook que regenera el sitio al publicar.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[Demo](https://portafolio-blog-nine.vercel.app) · [Repo](https://github.com/angelcobos380-art/Portafolio-Blog)
+
+---
+
+#### [Granito — microdonaciones](https://github.com/angelcobos380-art/Granito-Microdonaciones)
+
+MVP de microdonaciones con Stripe Checkout en modo prueba, donaciones atómicas y comprobantes.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+[Demo](https://granito-microdonaciones.vercel.app) · [Repo](https://github.com/angelcobos380-art/Granito-Microdonaciones)
+
+---
+
+#### [RoadMath](https://github.com/angelcobos380-art/RoadMathApp)
+
+App móvil educativa de cálculo: lecciones por niveles, ejercicios con retroalimentación y progreso. APK en preparación.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-6A5ACD?style=flat-square)
+
+[Repo](https://github.com/angelcobos380-art/RoadMathApp)
+
+---
+
+#### [Administrador de citas](https://github.com/angelcobos380-art/AdministradorCitas)
+
+CRUD de citas para una veterinaria con validación y notificaciones, en JavaScript puro.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![DOM](https://img.shields.io/badge/DOM-6A5ACD?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[Demo](https://veterinariacitas.vercel.app) · [Repo](https://github.com/angelcobos380-art/AdministradorCitas)
 
 ---
 
@@ -47,15 +82,15 @@ Trabajo desde el problema hacia la solución: identificar la necesidad, traducir
 
 **Backend y datos**
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
 **Herramientas**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,astro" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,astro,vercel" />
 </p>
 
-<sub>Docker y PostgreSQL: en práctica, con tareas de operación sin asistencia durante diciembre.</sub>
+<sub>En práctica: FastAPI, PostgreSQL y Docker.</sub>
 
 ---
 
@@ -63,7 +98,7 @@ Trabajo desde el problema hacia la solución: identificar la necesidad, traducir
 
 ```yaml
 Cursando: 4º cuatrimestre, Ing. en TI (UPChiapas)
-Construyendo: CMS headless del portafolio (FastAPI, PostgreSQL, Docker)
+Construyendo: inventario y pedidos de The-Late-Glaze (Node.js, Express)
 Publicando: RoadMath, app móvil educativa de cálculo (MVVM)
 Formación: GCI World, ciencia de datos con Python (Universidad de Tokio)
 ```
