@@ -1,61 +1,71 @@
-<h1 align="center">Hola, soy Ángel Marco 👾🧑‍💻</h1>
-<h3 align="center">Estudiante de Ing. en TI | Desarrollo Web (JS/Node) & Cloud (AWS)</h3>
+<h1 align="center">Hola, soy Ángel Marco 👾</h1>
+<h3 align="center">Backend con Python y Node.js · MongoDB · Proyectos desplegados</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Construyendo+mi+Portafolio;JavaScript+%2B+Node.js+%2B+MongoDB;Cloud+%26+despliegue+en+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=FastAPI+%2B+PostgreSQL+%2B+Docker;Node.js+%2B+MongoDB;Astro+%2B+deploy+hooks" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Universidad-UPChiapas-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ubicación-Chiapas,_México-6A5ACD?style=for-the-badge" />
-  <a href="[www.linkedin.com/in/angel-marco-martinez-cobos-b68184432]"><img src="https://img.shields.io/badge/LinkedIn-Conectar-4B0082?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/angel-marco-martinez-cobos-b68184432"><img src="https://img.shields.io/badge/LinkedIn-Conectar-4B0082?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://portafolio-blog-nine.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Visitar-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-### Sobre mi 
+### Sobre mí
 
-Estudiante de Ingeniería en Tecnologías de la Información (UPChiapas), con experiencia práctica desarrollando
-proyectos de principio a fin: identificar una problemática real en mi comunidad, definirla con claridad, y
-construir una solución funcional desplegada en la nube (AWS).
+Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital (UPChiapas), orientado a backend.
 
-Ese proceso me ha dado algo que no se aprende solo en clase: entender a quién le estoy resolviendo el problema,
-traducir una necesidad real en requerimientos técnicos, y sostener la comunicación con quien recibe la solución
-de principio a fin.
+Construyo backends y los llevo a producción. Mi proyecto actual es el CMS headless de mi portafolio: API en FastAPI con SQLModel y Pydantic, panel de administración con sesiones, PostgreSQL y despliegue en Render con Docker. Cuando publico un post, el backend dispara un build hook y Vercel regenera el sitio.
 
-Actualmente complemento esta base con formación especializada: el programa internacional GCI World
-(Ciencia de Datos, Universidad de Tokio) y la certificación MongoDB Associate Developer.
+Empecé con SQLite y migré a PostgreSQL cuando entendí que el disco del hosting es efímero. Ese tipo de decisiones, más que el framework, es lo que me interesa del backend.
 
-**Open to:** Estadías profesionales y crear Proyectos con un impacto real. 
+Trabajo desde el problema hacia la solución: identificar la necesidad, traducirla a requerimientos y sostener el proyecto hasta que alguien lo usa.
+
+**Estadía profesional:** mayo–agosto de 2027, Querétaro.
 
 ---
 
-### 🛠️ Tech Stack
+### Proyectos
+
+| Proyecto | Qué es | Stack | Links |
+|---|---|---|---|
+| **Portafolio + CMS headless** | CMS propio para publicar el portafolio: admin con sesiones, build hook a Vercel y API versionada | FastAPI · SQLModel · PostgreSQL · Docker · Astro | [Demo](https://portafolio-blog-nine.vercel.app) · [Repo](https://github.com/angelcobos380-art/Portafolio-Blog) |
+| **Granito** | MVP de microdonaciones con Stripe Checkout en modo prueba y donaciones atómicas | Node.js · PostgreSQL · Stripe | [Demo](https://granito-microdonaciones.vercel.app) · [Repo](https://github.com/angelcobos380-art/Granito-Microdonaciones) |
+| **Administrador de citas** | CRUD de citas para una veterinaria con validación y notificaciones | JavaScript · DOM · Vercel | [Demo](https://veterinariacitas.vercel.app) · [Repo](https://github.com/angelcobos380-art/AdministradorCitas) |
+
+---
+
+### 🛠️ Stack
 
 **Lenguajes**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,python" />
 </p>
 
-**Tecnologias en constante aprendizaje**
+**Backend y datos**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb" />
 </p>
 
 **Herramientas**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,astro" />
 </p>
+
+<sub>Docker y PostgreSQL: en práctica, con tareas de operación sin asistencia durante diciembre.</sub>
 
 ---
 
-### 🔭 Enfoque actual
+### 🔭 Ahora
 
 ```yaml
-Profundizando: JavaScript avanzado, Node.js, MongoDB
-Certificando: MongoDB Associate Developer, AWS Cloud Practitioner
-Formación complementaria: Ciencia de Datos (GCI World - U. Tokio)
-Meta: Aprender nuevas tecnologías y poder colaborar en proyectos
+Cursando: 4º cuatrimestre, Ing. en TI (UPChiapas)
+Construyendo: CMS headless del portafolio (FastAPI, PostgreSQL, Docker)
+Publicando: RoadMath, app móvil educativa de cálculo (MVVM)
+Formación: GCI World, ciencia de datos con Python (Universidad de Tokio)
 ```
 
 ---
@@ -64,5 +74,6 @@ Meta: Aprender nuevas tecnologías y poder colaborar en proyectos
 
 <p align="center">
   <a href="mailto:angelcobos380@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/angel-marco-martinez-cobos-b68184432"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/angel-marco-martinez-cobos-b68184432"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portafolio-blog-nine.vercel.app"><img src="https://img.shields.io/badge/Portafolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
